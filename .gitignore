@@ -32,3 +32,6 @@
 /test/common/
 /test/images/
 /test/static-code
+
+# nixflake
+/result/
