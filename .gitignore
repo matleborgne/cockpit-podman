@@ -34,4 +34,6 @@
 /test/static-code
 
 # nixflake
+result
+result/
 /result/
