@@ -27,6 +27,8 @@
           src = self;
 
           nativeBuildInputs = with pkgs; [
+            cockpit
+            podman
             gettext
             nodejs
             git
